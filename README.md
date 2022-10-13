@@ -6,9 +6,9 @@
 
 <h3 align="left">About me:</h3>
 
-<h2 align="left">
+<h4 align="left">
 A self Motivated and ambitious Java Developer. Problem-solving mindset and ability to perform well in collaboration. I am seeking a job in an organization where I can learn new skills and utilize skills for the growth of myself and the organization.
-</h2>
+</h4>
 
 
 - 🔭 I’m currently working on **Java Backend Projects**
