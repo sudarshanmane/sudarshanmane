@@ -1,14 +1,14 @@
 ![logo](https://github.com/sudarshanmane/Sudarshan-Mane/blob/main/frontendbackend.jpg)
-<h1 align="center">Hi 👋, I'm Sudarshan Mane</h1>
+<h1 align="center">Hi 👋, I'm Sudarshan </h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/app-development-concept_23-2148696303.jpg?w=740"></img>
 
 
 <h3 align="left">About me:</h3>
 
-<p align="left">
+<h2 align="left">
 A self Motivated and ambitious Java Developer. Problem-solving mindset and ability to perform well in collaboration. I am seeking a job in an organization where I can learn new skills and utilize skills for the growth of myself and the organization.
-</p>
+</h2>
 
 
 - 🔭 I’m currently working on **Java Backend Projects**
