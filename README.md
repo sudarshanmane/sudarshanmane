@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Backend Skills**
 
-- 👨‍💻 All of my projects are available at [https://sudarshanmane-portfolio.netlify.app/](https://sudarshanmane-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sudarshanmane.github.io/](https://sudarshanmane.github.io/)
 
 - 💬 Ask me about **Java, MySQL, JDBC, JPA, Hibernate, SpringBoot, HTML, CSS, JavaScript**
 
