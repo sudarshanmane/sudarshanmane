@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="sudarshanmane" /></p>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats:</h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&locale=en" alt="sudarshanmane" /></p>
