@@ -1,6 +1,8 @@
 <!-- ![logo](https://github.com/sudarshanmane/Sudarshan-Mane/blob/main/anim1.gif) -->
+<!-- (img ) -->
 
-<img align="right" width="400" src="https://dribbble.com/shots/15526868-Office-dude"></img>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."></img>
 
 <h1 align="center">Hi 👋, I'm Sudarshan </h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
