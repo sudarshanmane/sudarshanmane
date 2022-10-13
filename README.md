@@ -1,4 +1,6 @@
-![logo](https://cdn.dribbble.com/users/2008861/screenshots/15526868/media/75d00bc49c493701ec1a0cd51da86a8e.gif)
+
+<img align="center" width="800" src="https://cdn.dribbble.com/users/2008861/screenshots/15526868/media/75d00bc49c493701ec1a0cd51da86a8e.gif"></img>
+
 
 
 
