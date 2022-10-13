@@ -1,4 +1,4 @@
-![logo](https://github.com/sudarshanmane/sudarshanmane/anim1.gif)
+![logo](https://cdn.dribbble.com/users/2008861/screenshots/15526868/media/75d00bc49c493701ec1a0cd51da86a8e.gif)
 
 <h1 align="center">Hi 👋, I'm Sudarshan </h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
