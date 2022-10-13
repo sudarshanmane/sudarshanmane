@@ -1,4 +1,7 @@
-![logo](https://github.com/sudarshanmane/Sudarshan-Mane/blob/main/anim1.gif)
+<!-- ![logo](https://github.com/sudarshanmane/Sudarshan-Mane/blob/main/anim1.gif) -->
+
+<img align="right" width="400" src="https://dribbble.com/shots/15526868-Office-dude?w=740"></img>
+
 <h1 align="center">Hi 👋, I'm Sudarshan </h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/app-development-concept_23-2148696303.jpg?w=740"></img>
