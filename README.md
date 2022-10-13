@@ -3,6 +3,10 @@
 <h3 align="center">A passionate Java Backend Developer</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/app-development-concept_23-2148696303.jpg?w=740"></img>
 
+
+<h3 align="left">About me:</h3>
+
+
 - 🔭 I’m currently working on **Java Backend Projects**
 
 - 🌱 I’m currently learning **Java Backend Skills**
@@ -15,6 +19,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+A self Motivated and ambitious Java Developer. Problem-solving mindset and ability to perform well in collaboration. I am seeking a job in an organization where I can learn new skills and utilize skills for the growth of myself and the organization.
+</p>
+
 <p align="left">
 <a href="https://instagram.com/sudarshanmane9370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudarshanmane9370" height="30" width="40" /></a>
 </p>
