@@ -15,7 +15,7 @@ A self Motivated and ambitious Java Developer. Problem-solving mindset and abili
 - 🔭 I’m currently working on **Java Backend Projects**
 - 🌱 I’m currently learning **Java Backend Skills**
 - 👨‍💻 All of my projects are available at [https://sudarshanmane.github.io/](https://sudarshanmane.github.io/)
-- 💬 Ask me about **Java, MySQL, JDBC, JPA, Hibernate, SpringBoot, HTML, CSS, JavaScript**
+- 💬 Ask me about **Java, MySQL, JDBC, JPA, Hibernate, Spring, Spring MVC, SpringBoot, HTML, CSS, JavaScript**
 - 📫 How to reach me **sudarshanmane2110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
