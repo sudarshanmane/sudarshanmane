@@ -1,7 +1,7 @@
 
-<h3 align="center">Hi 👋, I'm Sudarshan</h3>
+<h2 align="center">Hi 👋, I'm Sudarshan</h2>
 
-<h3 align="center">A passionate Java Developer</h3>
+<h1 align="center">A passionate Java Developer</h1>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/app-development-concept_23-2148696303.jpg?w=740"></img>
 
 
