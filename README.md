@@ -31,10 +31,12 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 
 ## 📊 GitHub Analytics & Trophy
 
-![sudarshans's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanmane&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudarshanmane&theme=juicyfresh&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="sudarshanmane" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&locale=en" alt="sudarshanmane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&" alt="sudarshanmane" /></p>
 ---
 <br>
 
