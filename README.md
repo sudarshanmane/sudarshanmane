@@ -4,7 +4,6 @@
 <h1 align="center">A Passionate Software Developer</h1>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/app-development-concept_23-2148696303.jpg?w=740"></img>
 
-
 <h3 align="left">About me:</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sudarshannmane&label=Profile%20Views&color=0e75b6&style=flat""/></p>
 <h4 align="left">
@@ -12,10 +11,10 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 </h4>
 
 
-- 🔭 I’m currently working on **Java Backend Projects**
-- 🌱 I’m currently learning **Java Backend Skills**
+- 🔭 I’m currently working on **React Projects**
+- 🌱 I’m currently learning **ReactJs**
 - 👨‍💻 All of my projects are available at [https://sudarshanmane.github.io/](https://sudarshanmane.github.io/)
-- 💬 Ask me about **Java, MySQL, JDBC, JPA, Hibernate, Spring, Spring MVC, SpringBoot, HTML, CSS, JavaScript**
+- 💬 Ask me about ** HTML, CSS, JavaScript, ReactJs, React Router, Redux, Redux Saga, Java, MySQL, JDBC, JPA, Hibernate, Spring, Spring MVC, SpringBoot**
 - 📫 How to reach me **sudarshanmane2110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
