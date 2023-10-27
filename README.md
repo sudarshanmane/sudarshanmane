@@ -6,7 +6,7 @@
 
 
 <h3 align="left">About me:</h3>
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sudarshannmane&label=Profile%20Views&color=0e75b6&style=flat""/></p>
 <h4 align="left">
 A self Motivated and ambitious Software Developer. Problem-solving mindset and ability to perform well in collaboration. I am seeking a job in an organization where I can learn new skills and utilize skills for the growth of myself and the organization.
 </h4>
