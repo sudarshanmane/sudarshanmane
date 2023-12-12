@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Sudarshan</h2>
 
 <h1 align="center">A Passionate Software Developer</h1>
-<img align="right" width="400" src="[https://img.freepik.com/premium-vector/app-development-concept_23-2148696303.jpg?w=740](https://github.com/sudarshanmane/sudarshanmane/blob/main/anim1.gif?raw=true)"></img>
+<img align="right" width="400" src="https://github.com/sudarshanmane/sudarshanmane/blob/main/anim1.gif?raw=true"></img>
 
 <h3 align="left">About me:</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sudarshannmane&label=Profile%20Views&color=0e75b6&style=flat""/></p>
