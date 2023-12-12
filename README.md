@@ -10,23 +10,12 @@
 A self Motivated and ambitious Software Developer. Problem-solving mindset and ability to perform well in collaboration.
 </h4>
 
-
 - 🔭 I’m currently working on **React Projects**
 - 🌱 I’m currently learning **ReactJs**
 - 👨‍💻 All of my projects are available at [https://sudarshanmane.github.io/](https://sudarshanmane.github.io/)
 - 💬 Ask me about ** HTML, CSS, JavaScript, ReactJs, React Router, Redux, Redux Saga, Java, MySQL, JDBC, JPA, Hibernate, Spring, Spring MVC, SpringBoot**
 - 📫 How to reach me **sudarshanmane2110@gmail.com**
 
-</div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
-</div>
-
- <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,3 +30,16 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 
 ## 📊 GitHub Analytics & Trophy
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="sudarshanmane" /></p>
+<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudarshanmane&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@sudarshans stats"/></a>
+
+</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+</div>
+
+ <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+
