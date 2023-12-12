@@ -29,7 +29,7 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 <br>
 
 ## 📊 GitHub Analytics & Trophy
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="sudarshanmane" /></p>
+<p><img   style="border: 1px solid white; border-radius: 5px; margin: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="sudarshanmane" /></p>
 <br/>
 
 
