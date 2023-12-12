@@ -30,7 +30,6 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 
 ## 📊 GitHub Analytics & Trophy
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="sudarshanmane" /></p>
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudarshanmane&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
 
 
 </div>
