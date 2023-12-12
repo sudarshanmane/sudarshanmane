@@ -19,16 +19,14 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 
 </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=react-dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshanmane&show_icons=true&theme=react-dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanmane&show_icons=true&theme=react-dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
 </div>
 
-<p align="center">
     <a href="">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
