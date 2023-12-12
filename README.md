@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Sudarshan</h2>
 
 <h1 align="center">A Passionate Software Developer</h1>
-<div style="border-radius=50px">
+<div style="border-radius=50px; overflow="hidden">
   <img align="right" width="400" " src="https://github.com/sudarshanmane/sudarshanmane/blob/main/anim1.gif?raw=true"></img>
 </div>
 
