@@ -3,7 +3,7 @@
 
 <h1 align="center">A Passionate Software Developer</h1>
 <div>
-  <img align="right" width="400" style="border-radius=100px" src="https://github.com/sudarshanmane/sudarshanmane/blob/main/anim1.gif?raw=true"></img>
+  <img align="right" width="400" " src="https://github.com/sudarshanmane/sudarshanmane/blob/main/anim1.gif?raw=true"></img>
 </div>
 
 <h3 align="left">About me:</h3>
