@@ -17,6 +17,14 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 - 💬 Ask me about ** HTML, CSS, JavaScript, ReactJs, React Router, Redux, Redux Saga, Java, MySQL, JDBC, JPA, Hibernate, Spring, Spring MVC, SpringBoot**
 - 📫 How to reach me **sudarshanmane2110@gmail.com**
 
+</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=light" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshanmane&show_icons=true&theme=light" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanmane&show_icons=true&theme=light" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+    
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sudarshan-mane-065823236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshan-mane-065823236" height="30" width="40" /></a>
