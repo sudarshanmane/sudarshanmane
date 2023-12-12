@@ -24,7 +24,7 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
 </div>
 
-    <a href="">
+ <a href="https://wakatime.com/@Goblin8888">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 
