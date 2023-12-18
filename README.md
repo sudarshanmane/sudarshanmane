@@ -14,7 +14,7 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 
 - 🔭 I’m currently working on **React Projects**
 - 🌱 I’m currently learning **ReactJs**
-- 👨‍💻 All of my projects are available at [https://sudarshanmane.github.io/](https://sudarshanmane.github.io/)
+- 👨‍💻 All of my projects are available at [https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/](https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/)
 - 💬 Ask me about ** HTML, CSS, JavaScript, ReactJs, React Router, Redux, Redux Saga, Java, MySQL, JDBC, JPA, Hibernate, Spring, Spring MVC, SpringBoot**
 - 📫 How to reach me **sudarshanmane2110@gmail.com**
 
