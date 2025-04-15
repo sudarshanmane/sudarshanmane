@@ -15,7 +15,7 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 - 🔭 I’m currently working on **React Projects**
 - 🌱 I’m currently learning **ReactJs**
 - 👨‍💻 All of my projects are available at [https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/](https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/)
-- 💬 Ask me about ** HTML, CSS, JavaScript, ReactJs, React Router, Redux, Redux Saga, Java, MySQL, JDBC, JPA, Hibernate, Spring, Spring MVC, SpringBoot**
+- 💬 Ask me about ** JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB**
 - 📫 How to reach me **sudarshanmane2110@gmail.com**
 
 
@@ -38,8 +38,7 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px; margin-top: 20px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+ margin: 10px;"> 
 </div>
 
 ![Sudarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark)
