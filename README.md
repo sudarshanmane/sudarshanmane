@@ -38,7 +38,6 @@ A self Motivated and ambitious Software Developer. Problem-solving mindset and a
 </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px; margin-top: 20px">
- margin: 10px;"> 
 </div>
 
 ![Sudarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark)
