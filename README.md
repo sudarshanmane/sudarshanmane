@@ -78,7 +78,5 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false)" alt="GitHub Stats" />
 </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sudarshanmane" alt="GitHub Streak" />
