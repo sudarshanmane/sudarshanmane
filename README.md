@@ -12,12 +12,9 @@
 ### 🔍 About Me
 
 - 🔭 I’m currently working at **Shaleemar IT Solutions Pvt Ltd**
-- 🌱 I’m currently learning **Next.js, Redis, and Advanced Backend Performance**
-- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, JWT**
+- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
 - 👨‍💻 Portfolio: [sudarshan-mane-reactjs-responsive-portfolio.vercel.app](https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/)
-- 📫 Reach me at: **sudarshanmane1099@gmail.com**
-- ⚡ Fun fact: **I love building clean and scalable apps**
-
+- 📫 Reach me at: **sudarshanmane2110@gmail.com**
 ---
 
 ### 🌐 Connect with Me
