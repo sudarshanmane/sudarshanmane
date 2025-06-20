@@ -82,5 +82,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false" alt="GitHub Streak Stats for sudarshanmane" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)</p>
