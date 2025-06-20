@@ -75,4 +75,6 @@
 </p>
 
 <p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&" alt="sudarshanmane" /></p></p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" alt="Profile Summary" style="margin: 10px; border-radius: 5px;">
+
+</p>
