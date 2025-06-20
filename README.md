@@ -85,4 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudarshanmane" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false" alt="GitHub Streak Stats for sudarshanmane" />
+</p>
