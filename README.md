@@ -78,10 +78,6 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
