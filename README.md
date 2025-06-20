@@ -3,7 +3,7 @@
 <h1 align="center">A Passionate MERN Stack Developer</h1>
 
 <div style="border-radius=50px; overflow:hidden">
-  <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation">
+  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a8ca5a2c33b1f6c5fae5c8d4cb.gif" alt="Coding Animation">
 </div>
 
 <h3 align="left">About Me:</h3>
