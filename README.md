@@ -1,28 +1,26 @@
-<h2 align="center">Hi 👋, I'm Sudarshan</h2>
+![MasterHead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 
-<h1 align="center">A Passionate MERN Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Sudarshan Mane</h1>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-<div style="border-radius=50px; overflow:hidden">
-  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a8ca5a2c33b1f6c5fae5c8d4cb.gif" alt="Coding Animation">
-</div>
+<img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 
-<h3 align="left">About Me:</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sudarshanmane&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshanmane" />
+</p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sudarshanmane&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></p>
+### 🔍 About Me
 
-<h4 align="left">
-Self-motivated and detail-oriented MERN Stack Developer with 2.6+ years of experience building scalable, responsive, and user-centric web applications. Known for writing clean, efficient code and creating seamless user experiences through modern UI/UX practices.
-</h4>
-
-- 🔭 I’m currently working at **Shaleemar IT Solutions Pvt Ltd** on full-stack solutions like the Digital Lost & Found System for Maha Kumbh Mela 2025  
-- 🌱 I’m diving deeper into **Next.js, Redis, and Performance Optimization**  
-- 👨‍💻 My portfolio: [sudarshan-mane-reactjs-responsive-portfolio.vercel.app](https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/)
-- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS**
-- 📫 Reach me at **sudarshanmane1099@gmail.com**
+- 🔭 I’m currently working at **Shaleemar IT Solutions Pvt Ltd**
+- 🌱 I’m currently learning **Next.js, Redis, and Advanced Backend Performance**
+- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, JWT**
+- 👨‍💻 Portfolio: [sudarshan-mane-reactjs-responsive-portfolio.vercel.app](https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/)
+- 📫 Reach me at: **sudarshanmane1099@gmail.com**
+- ⚡ Fun fact: **I love building clean and scalable apps**
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/sudarshan-mane-065823236" target="blank">
@@ -35,32 +33,50 @@ Self-motivated and detail-oriented MERN Stack Developer with 2.6+ years of exper
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Languages and Tools
 
-**Frontend:**  
-React.js, Redux, Tailwind CSS, Bootstrap, Material UI, Ant Design, TanStack, Shadcn, HTML5, CSS3, JavaScript (ES6+), Next.js  
-
-**Backend:**  
-Node.js, Express.js, MongoDB, Redis, REST APIs, JWT, MVC Architecture  
-
-**Tools & Workflow:**  
-Git, GitHub, VS Code, Postman, MongoDB Atlas, Jira, Agile (Scrum), AWS  
-
-**Concepts:**  
-Clean Code, Secure Authorization, Performance Optimization, Component-Driven Architecture, Responsive Web Design
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+### 📊 GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<br clear="left"/>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" alt="Profile Summary" style="margin: 10px; border-radius: 5px;">
-</div>
-
-![Sudarshan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark)
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane" alt="GitHub Streak" />
+</p>
