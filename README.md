@@ -65,16 +65,26 @@
 ---
 
 ### 📊 GitHub Stats
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanmane&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&locale=en" alt="GitHub Stats" />
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark" alt="Contribution Graph" />
 </p>
 
-<p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=default" alt="Profile Summary" style="margin: 10px; border-radius: 5px;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=tokyonight" alt="GitHub Streak" />
 </p>
