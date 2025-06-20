@@ -77,6 +77,12 @@
 
 ## 📊 Contribution Graph
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=sudarshanmane&show_icons=true&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false)" alt="GitHub Stats" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+<br clear="left"/>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" alt="Profile Summary" style="margin: 10px; border-radius: 5px;">
+</div>
