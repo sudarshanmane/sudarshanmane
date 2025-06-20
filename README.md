@@ -75,6 +75,6 @@
 </p>
 
 <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=white" alt="Profile Summary" style="margin: 10px; border-radius: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=default" alt="Profile Summary" style="margin: 10px; border-radius: 5px;">
 
 </p>
