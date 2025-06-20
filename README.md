@@ -69,14 +69,21 @@
 
 ## 🔥 Most Used Languages
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanmane&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
 </p>
 
+---
 
 ## 📊 Contribution Graph
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<br clear="left"/>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" alt="Profile Summary" style="margin: 10px; border-radius: 5px;">
 </div>
