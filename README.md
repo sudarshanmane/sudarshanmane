@@ -86,5 +86,5 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false)" alt="GitHub Streak Stats for sudarshanmane" />
+  [<img src="[https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false)" alt="GitHub Streak Stats for sudarshanmane" />](https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false)
 </p>
