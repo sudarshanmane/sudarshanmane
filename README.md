@@ -86,4 +86,4 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroalsa&theme=react&hide_border=false" alt="GitHub Streak" />
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroalsa&theme=react&hide_border=false" alt="GitHub Streak Stats for alejandroalsa" /> </p>
