@@ -86,4 +86,5 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudarshanmane)](https://git.io/streak-stats)</p>
+[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudarshanmane)](https://git.io/streak-stats)</p>
+](https://github-readme-streak-stats.herokuapp.com/?user=sudarshanmane&theme=react&hide_border=false)
