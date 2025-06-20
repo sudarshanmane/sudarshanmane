@@ -78,11 +78,6 @@
 
 ## 📊 Contribution Graph
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshanmane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<br clear="left"/>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanmane&show_icons=true&theme=dark" alt="Profile Summary" style="margin: 10px; border-radius: 5px;">
