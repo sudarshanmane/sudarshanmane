@@ -3,7 +3,7 @@
 <h1 align="center">A Passionate MERN Stack Developer</h1>
 
 <div style="border-radius=50px; overflow:hidden">
-  <img align="right" width="400" src="https://github.com/sudarshanmane/sudarshanmane/blob/main/anim1.gif?raw=true" alt="Developer Animation">
+  <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation">
 </div>
 
 <h3 align="left">About Me:</h3>
@@ -64,6 +64,3 @@ Clean Code, Secure Authorization, Performance Optimization, Component-Driven Arc
 </div>
 
 ![Sudarshan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark)
-
----
-
