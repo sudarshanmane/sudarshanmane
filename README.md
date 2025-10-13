@@ -10,7 +10,6 @@
 
 ### 🔍 About Me
 
-- 🔭 I’m currently working at **Shaleemar IT Solutions Pvt Ltd**
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
 - 👨‍💻 Portfolio: [sudarshan-mane-reactjs-responsive-portfolio.vercel.app](https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/)
 - 📫 Reach me at: **sudarshanmane2110@gmail.com**
