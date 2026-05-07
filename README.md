@@ -10,7 +10,7 @@
 
 ### 🔍 About Me
 
-- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, PrismaORM, Next.Js, TypeScript, Tailwind CSS**
 - 👨‍💻 Portfolio: [sudarshan-mane-reactjs-responsive-portfolio.vercel.app](https://sudarshan-mane-reactjs-responsive-portfolio.vercel.app/)
 - 📫 Reach me at: **sudarshanmane2110@gmail.com**
 ---
@@ -20,9 +20,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/sudarshan-mane-065823236" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sudarshanmane9370" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
