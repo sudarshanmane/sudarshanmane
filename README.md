@@ -37,12 +37,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark&bg_color=0d1117&color=08f7fe&line=ff2e63&point=ffffff&area=true&hide_border=true"/>
 
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=100&section=header&text=Rahuloraj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
-
-<div align="center">
-
+  <div align="center">
 <p align="center">
   <img src="https://github-readme-statss-inky.vercel.app/api?username=rahuloraj&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
