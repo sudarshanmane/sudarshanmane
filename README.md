@@ -32,19 +32,6 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanmane&theme=react-dark&bg_color=0d1117&color=08f7fe&line=ff2e63&point=ffffff&area=true&hide_border=true"/>
-
-
-  <div align="center">
-<p align="center">
-  <img src="https://github-readme-statss-inky.vercel.app/api?username=sudarshanmane&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<img height="165" src="https://leetcard.jacoblin.cool/sudarshanmane?theme=dark&font=Nunito&hide_border=true"/>
-
-</div>
-
 ## 📊 Contribution Graph
 
 
