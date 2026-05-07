@@ -28,7 +28,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,tailwind,postgresql,mysql,orm,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,tailwind,postgresql,mysql,prisma" />
   </a>
 </p>
 ---
